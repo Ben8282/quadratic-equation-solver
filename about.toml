@@ -1,0 +1,7 @@
+accepted = [
+    "Apache-2.0",
+    "MIT",
+    "BSD-2-Clause",
+]
+[filters]
+exclude = ["quadratic-equation-solver"]
